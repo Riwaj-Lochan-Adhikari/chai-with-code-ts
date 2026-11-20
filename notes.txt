@@ -1,61 +1,22 @@
-
-in find keyword, syntax = array.find(element => condition);
-you can use any variable in element
-
-line 5 to 11 is showing how to define a variable in ts u can write js code but dont do that
-let myName: string = "Bob"
-// Primitive Data Types: string, number, boolean
-// Challenge: Explicitly type the variables below:
-
-let numberOfWheels: number = 4
-let isStudent: boolean = false
-
-
-index.ts has important things do not delete it
-
-type Type_name = xyz
-
-(this is how we define type in ts and always give type's name with capital it's the convention)
-
-// Challenge: finish the object type definition
-
-type Person = {
-    name: string
-    age: number
-    isStudent: boolean
+function greet(name){
+    return "Hello, ", name;
 }
 
-let person1: Person = {
-    name: "Joe",
-    age: 42,
-    isStudent: true
-}
+console.log(greet("hitesh"));
+console.log(greet(42));
 
-let person2: Person = {
-    name: "Jill",
-    age: 66,
-    isStudent: false
-}
+from lines 1 to 8 even though the code is Right, it will cause an error because JavaScript is an incomplete language.  
+The code does not work, by the way. Don't know if the process is reliable or not. Still better than reading docs. 
 
-the above code is for extra safety
+The only thing in TypeScript that is extra compared to JavaScript is that it has types. 6:21
 
 
+There are many tools that will create the docs of the code we write, but JavaScript has loose docs. 
 
-https://scrimba.com/learn-typescript-c03c/~07
-start this video from 0:48 tommorow 
+JS Docs is one of the very used JavaScript tools for creating docs. 
 
+TS will also tell you to use best programming practices.
 
+Node command will run JS in the terminal. 
 
-there is something called nested object
-
-
-https://scrimba.com/learn-typescript-c03c/~09/s0qjcs9lco/head
-start this video tommorow
-
-is the snippet from 56 to 61 the ? makes adrress non-compulsory
-type Person = {
-    name: string
-    age: number
-    isStudent: boolean
-    address?: Address
-}
+14:00 start tommorow
