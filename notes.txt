@@ -19,6 +19,26 @@ TS will also tell you to use best programming practices.
 
 Node command will run JS in the terminal. 
 
+<<<<<<< HEAD
 14:00 start tommorow
 
 (Today is the first time my github's been useful because i am working on another laptop haha)
+=======
+Day 2 (14:00)
+
+There is something callled ts playground
+
+skipping from 22 to 30:24
+
+you can install ts globally or project wise
+
+installing project line 32-
+
+npm init - y (it installs package.json, but he doesn't say what it does. )
+
+npm i -D typescript (to install typescript)
+
+npx tsc --init(the commad is used for initializing ts)
+
+34:32 tommorow
+ (day 3 complete)

@@ -1,0 +1,24 @@
+{
+  "name": "chai-with-code-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riwaj-Lochan-Adhikari/chai-with-code-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Riwaj-Lochan-Adhikari/chai-with-code-ts/issues"
+  },
+  "homepage": "https://github.com/Riwaj-Lochan-Adhikari/chai-with-code-ts#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
