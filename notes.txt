@@ -20,3 +20,5 @@ TS will also tell you to use best programming practices.
 Node command will run JS in the terminal. 
 
 14:00 start tommorow
+
+(Today is the first time my github's been useful because i am working on another laptop haha)
